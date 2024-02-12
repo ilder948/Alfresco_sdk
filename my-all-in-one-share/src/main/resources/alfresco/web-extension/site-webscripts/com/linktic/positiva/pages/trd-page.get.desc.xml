@@ -1,0 +1,6 @@
+<webscript>
+    <shortname>TRD Page</shortname>
+    <description>This page show trd tasks</description>
+    <family>Share</family>
+    <url>/trd</url>
+</webscript>
